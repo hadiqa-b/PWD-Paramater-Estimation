@@ -1,1 +1,1 @@
-# PWD-Paramater-Estimation
+Poisson Weibull Distribution and Stress-Strength Reliability Analysis
